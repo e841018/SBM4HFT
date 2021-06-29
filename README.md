@@ -19,6 +19,6 @@ This repository contains an implementation of a SBM-based currency arbitrage mac
   * Vivado HLS 2019.2
   * FPGA: Alveo U280, the only Alveo model with HBM found in  Vivado HLS 2019.2.
 * The host program is built with the following settings:
-  * Vitis <昱行: 填一下版本>
+  * Vitis 2020.2
   * FPGA: Alveo U50
 
